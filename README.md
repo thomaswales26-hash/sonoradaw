@@ -4,7 +4,7 @@ Sonora is a native macOS multitrack audio workstation built with AppKit and AVFo
 
 ## Download
 
-The macOS installer is available as [`Sonora-1.0.dmg`](Sonora-1.0.dmg). Open the disk image, then drag Sonora to Applications.
+Download the macOS [`installer package`](Sonora-1.0.pkg) or [`disk image`](Sonora-1.0.dmg) from this repository or the [GitHub Releases page](https://github.com/thomaswales26-hash/sonoradaw/releases). The installer places Sonora in Applications; the disk image includes an Applications shortcut.
 
 ## Build
 
